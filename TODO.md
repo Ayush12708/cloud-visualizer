@@ -1,0 +1,1 @@
+# Run on localhost TODO&#10;&#10;- [ ] Create .env&#10;- [ ] Activate/create venv &amp; pip install requirements&#10;- [ ] python manage.py makemigrations&#10;- [ ] python manage.py migrate&#10;- [ ] python manage.py runserver&#10;- [ ] Test http://localhost:8000

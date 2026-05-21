@@ -1,0 +1,9 @@
+[project]
+name = "cloud-visualizer"
+dependencies = [
+  "Django==6.0.2",
+  "python-dotenv==1.0.1",
+]
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
